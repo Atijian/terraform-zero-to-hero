@@ -1,7 +1,7 @@
 print("Hello World")
-a=1456
-b=3939
+a=1
+b=3
 if a<b:
-    print("nn")
+    print("na ji ana")
     else:
-        print(a)
+        print(b)
